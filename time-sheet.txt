@@ -1,0 +1,63 @@
+Perfect 👍 thanks for clarifying.  
+Now I’ll make a **clean 5-day timesheet (40 hrs)** that only covers:  
+
+- **CAM Project**  
+- **POC on Azure App Service deployment** (frontend React, backend Node.js, single & multi-service setup)  
+- **CI/CD pipeline setup in Azure DevOps** (frontend + backend)  
+- **Azure Monitoring (Log Analytics)** – only theory/exploration since implementation pending  
+- **Troubleshooting + discussions with team**  
+
+Here’s a **professional version** 👇  
+
+---
+
+## **Timesheet (15th Sept – 19th Sept 2025, 40 hrs)**  
+
+### **15th Sept 2025 (Monday) – 8 hrs**  
+- CAM project introduction – discussed DevOps scope and requested subscription access (1 hr)  
+- Project sync-up call & stand-up with DevOps team (1 hr)  
+- Explored Azure App Service deployment options for portal (backend + frontend) and website (backend + frontend) (2 hrs)  
+- Created initial design plan for single App Service (portal backend + frontend) and separate App Services for website frontend + backend (2 hrs)  
+- Team discussion on possible integration approaches (2 hrs)  
+
+---
+
+### **16th Sept 2025 (Tuesday) – 8 hrs**  
+- Set up App Services for portal backend + frontend (single App Service) and website backend + frontend (two App Services) (2.5 hrs)  
+- Implemented CI/CD pipeline in Azure DevOps for website backend and frontend (2 hrs)  
+- Validated frontend API call to backend App Service (1 hr)  
+- Troubleshooting deployment issues & coordination with team (1.5 hrs)  
+- Project stand-up and discussions (1 hr)  
+
+---
+
+### **17th Sept 2025 (Wednesday) – 8 hrs**  
+- Explored Azure Monitoring (Log Analytics) – studied monitoring options for App Service (2 hrs)  
+- Explored costing Excel shared by CAM team to understand resource planning (1 hr)  
+- CI/CD pipeline setup continuation for portal (backend + frontend combined) (2 hrs)  
+- Troubleshooting errors during build and release pipeline runs (2 hrs)  
+- Attended CAM sync-up call and discussed blockers (1 hr)  
+
+---
+
+### **18th Sept 2025 (Thursday) – 8 hrs**  
+- Worked on React frontend App Service deployment pipeline (2.5 hrs)  
+- Worked on Node.js backend App Service deployment pipeline (2 hrs)  
+- Troubleshooting failed builds, environment variables, and configuration issues (2 hrs)  
+- Team sync-up and discussions with DevOps team (1.5 hrs)  
+
+---
+
+### **19th Sept 2025 (Friday) – 8 hrs**  
+- Enhanced CI/CD pipelines – refined triggers & stages for automation of portal and website deployments (2.5 hrs)  
+- Explored integration of Azure Monitoring with App Service (theoretical, POC pending due to access) (2 hrs)  
+- Documented deployment process, troubleshooting steps, and pipeline design (2 hrs)  
+- Attended weekly CAM project review & team discussion on pending access issues (1.5 hrs)  
+
+---
+
+✅ **Total = 40 hrs (8 hrs/day × 5 days)**  
+
+---
+
+Do you want me to also prepare this in a **tabular format (Date | Task | Hours)** so it’s ready to paste directly into a timesheet tool?
