@@ -1,0 +1,22 @@
+Date: 22nd Sept 2025 (Monday) – 4 hrs L&D
+Stand-up call – 1 hr
+Studied Kubernetes Pod Networking, including CNIs like Calico and Flannel – 2 hrs
+Hands-on practice of CNI on KubeKloud – 1 hr
+
+Date: 23rd Sept 2025 (Tuesday) – 7.5 hrs L&D
+Stand-up call – 0.5 hr
+Learned about CoreDNS, FQDN in K8S, and Ingress vs Ingress Controller – 2.5 hrs
+Explored deployment of Ingress Controllers using Helm and YAML – 2 hrs
+Hands-on practice of CoreDNS and Ingress on KubeKloud – 2.5 hrs
+
+Date: 24th Sept 2025 (Wednesday) – 6 hrs L&D
+K8S topic covered - Gateway API, Helm – 2.5 hrs
+Topic covered Helm CLI,  components - chart, releases – 1.5 hrs
+Practiced Helm commands and deployment scenarios on KubeKloud – 2 hrs
+
+Date: 25th Sept 2025 (Thursday) – 2 hrs L&D
+stand up call - 30 min
+Internal calls to get the desired the CAM required access for deployment – 1.5 hr 
+
+Date: 26th Sept 2025 (Friday) – 0.5 hr L&D
+Stand up call – 0.5 hr
