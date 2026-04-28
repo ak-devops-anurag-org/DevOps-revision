@@ -455,6 +455,7 @@ const timesheetData = {
     }
   ]
 };
+
 function preventSubmission() {
   const allButtons = document.querySelectorAll('button');
   allButtons.forEach(btn => {
